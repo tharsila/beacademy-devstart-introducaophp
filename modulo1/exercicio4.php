@@ -60,7 +60,7 @@
       'preco' => 100,
       'descricao' => 'Hipercalórico completo e sem lactose! MASS TITANIUM 17500 ZERO LACTOSE combina três         fontes proteicas de alta biodisponibilidade e digestibilidade e duas fontes de carboidratos.
       Sua fórmula conta ainda com vitaminas e minerais que contribuem para a metabolização dos macronutrientes.',
-      'img' => './assets/img4.jpg',
+      'img' => './assets/img5.jpg',
     ];
 
     $suplementos = [$produto1, $produto2, $produto3, $produto4, $produto5];
